@@ -1,0 +1,82 @@
+body { 
+	background-color: #fff;
+	font-family: "Roboto", "Raleway", sans-serif;
+	color: #434455;
+}
+
+h1 {
+	font-size: 56px;
+	line-height: 1.1;
+	font-weight: 700;
+	color: #FFFFFF;
+}
+
+h2 {
+	font-size: 36px;
+	line-height: 1.1;
+	font-weight: 700;
+}
+
+h3 {
+	font-size: 20px;
+	line-height: 1.2;
+	font-weight: 500;
+}
+
+p {
+	font-size: 16px;
+	line-height: 1.5;
+	font-weight: 400;
+}
+
+.servicebtn {
+	cursor: pointer;
+	background-color: #4D5AE5;
+	color: #FFFFFF;
+}
+
+.hero {
+	background-color: #2E2F42;
+}
+
+.section-ourteam {
+	background-color: #F4F4FD;
+}
+
+footer {
+	background-color: #2E2F42;
+	color: #F4F4FD;
+}
+
+.link-nav {
+	font-family: "Roboto", sans-serif;
+	font-weight: 500;
+	text-decoration: none;
+	color: #2E2F42;
+}
+
+.link-address {
+	font-family: "Roboto", sans-serif;
+	font-weight: 400;
+	font-style: normal;
+	text-decoration: none;
+	color: #434455;
+}
+
+.logo {
+	font-family: "Raleway", sans-serif;
+	color: #2E2F42;
+	text-decoration: none;
+	text-transform: uppercase;
+}
+
+.webstudio {
+	color: #4D5AE5;
+}
+
+.logo-footer {
+	color: #F4F4FD;
+	font-family: "Raleway", sans-serif;
+	text-decoration: none;
+	text-transform: uppercase;
+}
